@@ -1,0 +1,4 @@
+baseURL = "https://nativeassetmanagement.com/"
+languageCode = "en-us"
+title = "Native Asset Management"
+theme = "dimension"
