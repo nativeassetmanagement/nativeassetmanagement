@@ -1,6 +1,6 @@
 ---
 title: About
-logo: "../images/feral-holding-bg.png"
+logo: "../images/native-asset-management-bg.png"
 
 ---
 

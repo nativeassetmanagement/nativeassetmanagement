@@ -1,8 +1,8 @@
 ---
 title: "Posts"
 description: "A collection of posts"
-logo: "../images/feral-holding-bg.png"
-background: "../images/feral-holding-bg.png"
+logo: "../images/nativeassetmanagement-logo.png"
+background: "../images/nativeassetmanagement-bg.png"
 
 
 icon: "flag"
